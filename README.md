@@ -18,12 +18,11 @@ A repertoire and practice management application that helps musicians organize p
 
 ## Repository Structure
 
-```text
-ideas/
-├── matchpoint.md
-├── tennisbuddy.md
-└── piecetracker.md
-```
+The `/ideas` directory contains detailed descriptions of each proposed capstone project:
+
+- MatchPoint ⭐
+- TennisBuddy
+- PieceTracker
 
 Click any project title above to view the full proposal.
 
