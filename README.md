@@ -2,28 +2,32 @@
 
 This repository contains project ideas, planning documents, and development work for my Springboard Software Engineering Career Track Capstone Project.
 
-## Project Ideas
+## Project Direction
 
-### ⭐ [MatchPoint](ideas/matchpoint.md) (Preferred Choice)
+⭐ **PieceTracker** (Finalized Direction)
 
-A tennis development platform that helps recreational players track matches, practice sessions, goals, and long-term improvement.
+A centralized, shared repertoire management application built for my orchestra. PieceTracker lets members track pieces, instrument parts, part-specific difficulty, sheet music links, and performance history across seasons, replacing scattered notebooks and spreadsheets with one searchable, collaborative system.
 
-### [TennisBuddy](ideas/tennisbuddy.md)
+See [`proposal.md`](./proposal.md) for the full Step Two project proposal.
 
-A platform that helps tennis players find compatible hitting partners based on skill level, availability, and location.
+## Project Ideas Considered
 
-### [PieceTracker](ideas/piecetracker.md)
+Three ideas were originally submitted for mentor review. After feedback, PieceTracker was selected as the final direction.
 
-A repertoire and practice management application that helps musicians organize pieces, track practice sessions, and monitor progress over time.
+### PieceTracker (Selected)
 
-## Repository Structure
+A repertoire and performance history management application for orchestras, helping musicians track pieces, parts, difficulty, and performance history over time.
 
-The `/ideas` directory contains detailed descriptions of each proposed capstone project:
+### MatchPoint (Not Selected)
 
-- MatchPoint ⭐
-- TennisBuddy
-- PieceTracker
+A tennis development platform that would have helped recreational players track matches, practice sessions, goals, and long-term improvement.
 
-Click any project title above to view the full proposal.
+### TennisBuddy (Not Selected)
 
-Contains the initial project ideas submitted for Capstone Step 1.
+A platform that would have helped tennis players find compatible hitting partners based on skill level, availability, and location. Deprioritized by mentor feedback as likely out of scope for the program timeline.
+
+## Status
+
+- Step 1, Initial Project Ideas (Approved)
+- Step 2, Project Proposal (submitted, pending mentor approval)
+
