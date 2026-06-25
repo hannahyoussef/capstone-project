@@ -8,7 +8,7 @@ This repository contains project ideas, planning documents, and development work
 
 A centralized, shared repertoire management application built for my orchestra. PieceTracker lets members track pieces, instrument parts, part-specific difficulty, sheet music links, and performance history across seasons, replacing scattered notebooks and spreadsheets with one searchable, collaborative system.
 
-See [`proposal.md`](./proposal.md) for the full Step Two project proposal.
+See [`proposal.md`](./Project%20Proposal/proposal.md) for the full Step Two project proposal.
 
 ## Project Ideas Considered
 
